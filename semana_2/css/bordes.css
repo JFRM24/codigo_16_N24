@@ -1,0 +1,39 @@
+p{
+    text-align: center;
+    border-color: tomato;
+    border-width: 5px;
+    background-color: blue;
+    color: azure;
+    
+}
+
+.B_sol{
+    border-style:solid ; 
+}
+
+.B_cor{
+    border-style: dashed;
+}
+
+.B_pun{
+    border-style: dotted;
+}
+.B_dob{
+    border-style:double;
+}
+
+.B_ins{
+    border-style: inset;
+}
+
+.B_1{
+    border-style:dotted double ;
+}
+
+.B_2{
+    border-style:dotted inset none;
+}
+
+.B_3{
+    border-style:double none  dashed;
+}

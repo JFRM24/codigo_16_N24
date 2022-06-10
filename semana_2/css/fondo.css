@@ -1,0 +1,10 @@
+.bg{
+    border: solid;
+    height: 300px;
+}
+.color-red{
+    background-color: red;
+}
+.color-green{
+    background-color: green;
+}

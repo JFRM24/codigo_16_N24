@@ -1,0 +1,16 @@
+h1{
+    font-family: apple-system, Helvetica , Arial , sans-serif ;}
+.parafo {
+font-family: 'Courier New', Courier, monospace;
+font-size: 100px;
+
+}
+
+@font-face {
+    font-family: "PressStart2P-Regular" ;
+    src: url(../fonts/PressStart2P-Regular.ttf);
+}
+
+.lol{
+    font-family: PressStart2P-Regular ;
+}

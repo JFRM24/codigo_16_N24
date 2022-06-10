@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(190, 190, 190);
+}
+
+#contenedor{
+width: 300px;
+height: 200px;
+margin: auto;
+background:linear-gradient(to right, red 30% ,white 30% ,white 70%, red 60%) ;
+}
+
+.sombra{
+    box-shadow: 20px 20px;
+}
